@@ -16,8 +16,8 @@ except:
 HOST = "irc.twitch.tv"
 PORT = 6667
 CHAN = "#"+sys.argv[1]
-NICK = "fsadock"
-PASS = "oauth:bh7qc1d4v4qiz5m9nj2cgxo1y94hck"
+NICK = "YOURNICK"
+PASS = "YOURTOKEN"
 
 
 #--------------------------CONNECTION--------------------------#
